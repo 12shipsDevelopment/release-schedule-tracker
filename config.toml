@@ -1,0 +1,7 @@
+ProviderURL = "wss://mainnet.infura.io/ws/v3/<projectId>"
+ContractAddress = "0x525794473f7ab5715c81d06d10f52d11cc052804"
+AbiPath = "./contracts/12ships.abi"
+EventName = "Lock"
+BlockNumber = "8405209"
+Action = "loadEvent"
+
